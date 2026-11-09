@@ -1,0 +1,8 @@
+*.db
+.dart_tool/*
+!.dart_tool/package_config.json
+build/
+*.exe
+*.aot
+*.snapshot
+.dart_tool/
